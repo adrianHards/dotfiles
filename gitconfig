@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = github@ahards.com
+	name = Adrian Hards
